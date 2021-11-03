@@ -7,5 +7,5 @@
 - 4 .理解epoll边缘非阻塞模式并实现
 - 5.了解epoll反应堆模型设计思想
 - 6 .能看懂epoll反应堆模型的实现代码
-#相关知识
+# 相关知识
 我的网络编程04热帖：https://blog.csdn.net/qq_41858510/article/details/121068778
